@@ -207,6 +207,10 @@ body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
   border-top: 5px solid #b0b6da;
 }
 
+.navbar-custom.shadow-sm {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1) !important;
+}
+
 .navbar-light .navbar-nav .nav-link {
   color: white
 }
